@@ -14,4 +14,4 @@
   - Copy and paste the localhost address into your browser to use the web app
 
 <b>III. VIDEO OF APP IN ACTION:</b>
-- youtube.com
+- https://youtu.be/pV_cbbbP2Ow
